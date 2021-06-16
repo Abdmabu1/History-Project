@@ -16,17 +16,17 @@
 ### Date:
 
 
-## Introduction: 
+# Introduction: 
 
 The internet is one of the online platforms and modules that have been used by many people all over the world.  It has enabled the planet to be closer than it ever has (Small village).  
 
-#### The question that many people ask however, is how the internet came to be.  
+## The question that many people ask however, is how the internet came to be.  
 
 The internet’s creation cannot however be credited to one person, but rather a number of people who were able to make its inception possible. 
 
 <hr />
 
-## Thesis statement: 
+# Thesis statement: 
 To better understand the internet, one has to look at the brief history of the internet itself and also look at how it works in order to best understand it. 
 To understand the internet better, one has to understand that the internet was not the work of one person, but rather the work of a number of people. For this reason, it can be termed as the information superhighway. 
 
@@ -63,7 +63,7 @@ As such the internet works by delivering messages. However, before these message
 
 <hr />
 
-## Conclusion: 
+# Conclusion: 
 The internet can therefore be said to be a technology that has come from a very far place, that is its inception to where it is now. 
 The internet is composed of very small features that make the overly large infrastructure that it is. 
 Its use of protocols is what enables users to access information and share messages across different devices. 
