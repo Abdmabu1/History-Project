@@ -64,10 +64,7 @@ As such the internet works by delivering messages. However, before these message
 <hr />
 
 # Conclusion
-The internet can therefore be said to be a technology that has come from a very far place, that is its inception to where it is now. 
-The internet is composed of very small features that make the overly large infrastructure that it is. 
-Its use of protocols is what enables users to access information and share messages across different devices. 
-The internet continues to grow day in and day out, as such it is defined by its past, and it helps to shape the future, while also making sure that the way it works follows privacy protocols that have been laid out. 
+In conclusion, internet is one of the best inventions in humanity. The amount of things you can do over the internet is extremely sensational. It is an absolute great tool to learn and communicate in just a click of a mouse or a swipe of a finger. The internet continues to grow day in and day out, as such it is defined by its past, and it helps to shape the future, while also making sure that the way it works follows privacy protocols that have been laid out. Its unrestricted accessibility, however, creates apprehension to young people who can access to it. Internet can expose these young minds to harmful uncensored videos or images that can cause various psychological influences; and over usage of computer can also lead to different kinds of physical and cognitive health problems. Internet can be really helpful and entertaining, but for those who do not know how to control it will just experience its harm and dark side.
 
 <hr />
  
