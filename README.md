@@ -26,6 +26,17 @@ The internet’s creation cannot however be credited to one person, but rather a
 
 <hr />
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
 # Thesis statement
 To better understand the internet, one has to look at the brief history of the internet itself and also look at how it works in order to best understand it. 
 To understand the internet better, one has to understand that the internet was not the work of one person, but rather the work of a number of people. For this reason, it can be termed as the information superhighway. 
