@@ -1,28 +1,5 @@
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="github-markdown.css">
-<style>
-    .markdown-body {
-        box-sizing: border-box;
-        min-width: 200px;
-        max-width: 980px;
-        margin: 0 auto;
-        padding: 45px;
-    }
- 
-    @media (max-width: 767px) {
-        .markdown-body {
-            padding: 15px;
-        }
-    }
-</style> 
-
-
-<article class="markdown-body">
-
-
 # History of The Internet 
-
 
 <img src="https://user-images.githubusercontent.com/85974024/122194954-d558a880-ce8d-11eb-8647-774884857cd0.png" alt="Internet Image" />
 
