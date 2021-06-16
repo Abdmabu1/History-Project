@@ -19,7 +19,7 @@
 # Introduction
 
 The Internet is a vast network that connects computers all over the world. Through the Internet, people can share information and communicate from anywhere with an Internet connection. It is one of the online platforms and modules that have been used by many people all over the world.  It has enabled the planet to be closer than it ever has (Small village).  
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQyobjLp1PODlsOQuREC3N2Hfzoy7RxibY1A&usqp=CAU" alt="Internet Image" />
+ <img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2021/04/Introduction-to-Internet-1200x675.jpg" alt="Internet Image" />
 ## The question that many people ask however, is how the internet came to be.  
 
 The internet’s creation cannot however be credited to one person, but rather a number of people who were able to make its inception possible. 
