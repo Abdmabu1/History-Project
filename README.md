@@ -1,7 +1,7 @@
 # History of The Internet 
 
-![image](https://user-images.githubusercontent.com/85974024/122194954-d558a880-ce8d-11eb-8647-774884857cd0.png)
 
+<img src="https://user-images.githubusercontent.com/85974024/122194954-d558a880-ce8d-11eb-8647-774884857cd0.png" alt="Internet Image" />
 
 <hr />
 
