@@ -1,3 +1,24 @@
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
+<style>
+    .markdown-body {
+        box-sizing: border-box;
+        min-width: 200px;
+        max-width: 980px;
+        margin: 0 auto;
+        padding: 45px;
+    }
+ 
+    @media (max-width: 767px) {
+        .markdown-body {
+            padding: 15px;
+        }
+    }
+</style> 
+<article class="markdown-body">
+
+
 # History of The Internet 
 
 
@@ -26,16 +47,7 @@ The internet’s creation cannot however be credited to one person, but rather a
 
 <hr />
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+
 
 # Thesis statement
 To better understand the internet, one has to look at the brief history of the internet itself and also look at how it works in order to best understand it. 
@@ -84,3 +96,7 @@ Andrews, E. (2013, December 18). Who invented the internet? HISTORY. [Who invent
 Craig, W. (2010). The history of the internet in a nutshell. WebFX Blog. [The history of the internet in a nutshell](https://www.webfx.com/blog/web-design/the-history-of-the-internet-in-a-nutshell/amp/)
 HP. (2019). How Does the Internet Work: A Step-by-Step Pictorial. Hp.com. [How does the internet work?](https://www.hp.com/us-en/shop/tech-takes/how-does-the-internet-work#:~:text=The%20internet%20is%20a%20worldwide,(TCP)%20%5B5%5D)
 Media Museum. (2020, December 3). A short history of the internet. National Science and Media Museum. [Short history of the internet](https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet) -->
+ 
+   
+</article>
+
